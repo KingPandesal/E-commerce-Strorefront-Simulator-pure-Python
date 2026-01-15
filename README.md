@@ -1,4 +1,4 @@
-# 🛍️ CKC-Styles (E-commerce Strorefront Simulator) pure Python 🛍️
+# 🛍️ CKC-Styles (E-commerce Strorefront) 🛍️
 
 * An E-Commerce Storefront Simulator. 
 * Made using pure python. 
